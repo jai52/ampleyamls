@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  ample_admin:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-05-12T07:27:33.239218736Z"
+    description: A Helm chart for Kubernetes
+    digest: 240a993c82718cc04f8d966014d512b28bcbf9971669cb5b7ddb0e50a72114ca
+    name: ample_admin
+    type: application
+    urls:
+    - https://github.com/jai52/ampleyamls/ample_admin-0.1.0.tgz
+    version: 0.1.0
+generated: "2023-05-12T07:27:33.237955218Z"
